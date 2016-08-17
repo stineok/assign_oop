@@ -10,7 +10,7 @@ Note that content surrounded by [ and ] represent placeholder content and should
 For this assignment you will be creating OOP code required for implementing a note taking application. Follow the steps listed to complete the assignment.
 
 Create a class called NotesApplication.
-Create a constructor that does the following
+Create a constructor that does the following.
 Takes in a parameter author as the author of the note and saves this as an instance variable.
 Create a notes list/array to store all the notes as an instance property.
 Create the following functionality for the NotesApplication class
